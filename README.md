@@ -1,6 +1,6 @@
 # logisticaPascoa
 
-<p align="center"> :rabbit2: Instrutor sugeriu uma brincadeira na semana da páscoa, que se caso alguem criasse uma API para calcular o preço e tempo para enviar óvos de páscoa.... ele daria de presente para toda turma :rabbit2: </p>
+<p align="center"> :rabbit2: Instrutor sugeriu uma brincadeira na semana da páscoa, que se caso alguém  criasse uma API para calcular o preço e tempo para enviar óvos de páscoa.... ele daria de presente para toda turma :rabbit2: </p>
 
 
 
